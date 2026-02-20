@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет!
 
-<!--
-**degtev/degtev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Full-Stack разработчик с опытом создания масштабируемых веб-приложений, систем мониторинга, AI-интеграций и e-commerce платформ. Проектирую современные микросервисные архитектуры на Node.js и работаю с классическим серверным стеком на PHP.
 
-Here are some ideas to get you started:
+## Мой технологический стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** React, TypeScript, Material UI, Ant Design, Vite, HTML/CSS.
+* **Backend:** Node.js, Express, Fastify, NestJS, PHP.
+* **Базы данных и поиск:** PostgreSQL, MySQL, Redis, Elasticsearch.
+* **ORM:** Prisma ORM, TypeORM.
+* **CMS:** 1C-Bitrix, WordPress, Strapi.
+* **Интеграции:** Платежные системы, службы доставки, 1С, Битрикс24, amoCRM, RetailCRM, МойСклад.
+* **Инфраструктура и API:** Linux сервера, Socket.IO, Telegram Bot API, OAuth-интеграции.
+
+## Контакты
+
+* **Telegram:** [@VladimirDegtev](https://t.me/VladimirDegtev)
+* **Email:** mr.dolte@yandex.ru
