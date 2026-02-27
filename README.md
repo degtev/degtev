@@ -2,7 +2,7 @@
 
 Я Full-Stack разработчик с опытом создания масштабируемых веб-приложений, систем мониторинга, AI-интеграций и e-commerce платформ. Проектирую современные микросервисные архитектуры на Node.js и работаю с классическим серверным стеком на PHP.
 
-## Мой технологический стек
+## Мой стек
 
 * **Frontend:** React, TypeScript, Material UI, Ant Design, Vite, HTML/CSS.
 * **Backend:** Node.js, Express, Fastify, NestJS, PHP.
