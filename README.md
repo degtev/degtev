@@ -5,9 +5,9 @@
 ## Мой стек
 
 * **Frontend:** React, TypeScript, Material UI, Ant Design, Vite, HTML/CSS.
-* **Backend:** Node.js, Express, Fastify, NestJS, PHP.
+* **Backend:** Node.js, Express, Fastify, NestJS, NextJS, PHP.
 * **Базы данных и поиск:** PostgreSQL, MySQL, Redis, Elasticsearch.
-* **ORM:** Prisma ORM, TypeORM.
+* **ORM:** Prisma ORM, , Drizzle ORM, TypeORM.
 * **CMS:** 1C-Bitrix, WordPress, Strapi.
 * **Интеграции:** Платежные системы, службы доставки, 1С, Битрикс24, amoCRM, RetailCRM, МойСклад.
 * **Инфраструктура и API:** Linux сервера, Socket.IO, Telegram Bot API, OAuth-интеграции.
