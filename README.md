@@ -4,13 +4,13 @@ I'm a Full-Stack developer with experience building scalable web applications, m
 
 ## 🛠️ My Tech Stack
 
-**Frontend:** React, TypeScript, Material UI, Ant Design, Vite, HTML/CSS
-**Backend:** Node.js, Express, Fastify, NestJS, NextJS, PHP
-**Databases & Search:** PostgreSQL, MySQL, Redis, Elasticsearch
-**ORMs:** Prisma ORM, Drizzle ORM, TypeORM
-**CMS:** 1C-Bitrix, WordPress, Strapi
-**Integrations:** Payment gateways, delivery services, 1С, Bitrix24, amoCRM, RetailCRM, MoySklad
-**Infrastructure & APIs:** Linux servers, Socket.IO, Telegram Bot API, OAuth integrations
+* **Frontend:** React, TypeScript, Material UI, Ant Design, Vite, HTML/CSS
+* **Backend:** Node.js, Express, Fastify, NestJS, NextJS, PHP
+* **Databases & Search:** PostgreSQL, MySQL, Redis, Elasticsearch
+* **ORMs:** Prisma ORM, Drizzle ORM, TypeORM
+* **CMS:** 1C-Bitrix, WordPress, Strapi
+* **Integrations:** Payment gateways, delivery services, 1С, Bitrix24, amoCRM, RetailCRM, MoySklad
+* **Infrastructure & APIs:** Linux servers, Socket.IO, Telegram Bot API, OAuth integrations
 
 ## 📬 Contacts
 
