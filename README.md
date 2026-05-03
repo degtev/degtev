@@ -15,7 +15,7 @@ I'm a Full-Stack developer with experience building scalable web applications, m
 ## 📬 Contacts
 
 *   **Telegram:** [@VladimirDegtev](https://t.me/VladimirDegtev)
-*   **Email:** mr.dolte@yandex.ru
+*   **Email:** mr.dolte@gmail.com
 
 ---
 
