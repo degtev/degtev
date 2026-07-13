@@ -1,8 +1,8 @@
-# 👋 Hi!
+# Hi!
 
 I'm a Full-Stack developer with experience building scalable web applications, monitoring systems, AI integrations, and e-commerce platforms. I design modern microservice architectures with Node.js and work with classic server-side stacks using PHP.
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 * **Frontend:** React, TypeScript, Material UI, Ant Design, Vite, HTML/CSS
 * **Backend:** Node.js, Express, Fastify, NestJS, NextJS, PHP
@@ -12,7 +12,7 @@ I'm a Full-Stack developer with experience building scalable web applications, m
 * **Integrations:** Payment gateways, delivery services, 1С, Bitrix24, amoCRM, RetailCRM, MoySklad
 * **Infrastructure & APIs:** Linux servers, Socket.IO, Telegram Bot API, OAuth integrations
 
-## 📬 Contacts
+## Contacts
 
 *   **Telegram:** [@VladimirDegtev](https://t.me/VladimirDegtev)
 *   **Email:** mr.dolte@gmail.com
